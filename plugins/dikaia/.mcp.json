@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dikaia": {
+      "type": "http",
+      "url": "https://app.dikaia.ai/mcp"
+    }
+  }
+}

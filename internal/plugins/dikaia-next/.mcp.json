@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dikaia-next": {
+      "type": "http",
+      "url": "https://next.dikaia.ai/mcp"
+    }
+  }
+}

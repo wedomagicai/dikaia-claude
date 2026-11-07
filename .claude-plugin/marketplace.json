@@ -1,0 +1,16 @@
+{
+  "name": "dikaia",
+  "description": "DIKAIA: ricerca giuridica italiana per Claude. Italian legal research for Claude.",
+  "owner": {
+    "name": "DIKAIA",
+    "url": "https://dikaia.ai"
+  },
+  "plugins": [
+    {
+      "name": "dikaia",
+      "source": "./plugins/dikaia",
+      "description": "Collega Claude a DIKAIA: norme, sentenze, CCNL, termini e pratiche dello studio. Connects Claude to DIKAIA for Italian legal research.",
+      "category": "legal"
+    }
+  ]
+}

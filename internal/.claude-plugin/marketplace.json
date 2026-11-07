@@ -1,0 +1,22 @@
+{
+  "name": "dikaia-internal",
+  "description": "DIKAIA internal test builds (stage, next). Not for customers.",
+  "owner": {
+    "name": "DIKAIA",
+    "url": "https://dikaia.ai"
+  },
+  "plugins": [
+    {
+      "name": "dikaia-stage",
+      "source": "./plugins/dikaia-stage",
+      "description": "[STAGE] Collega Claude a DIKAIA: norme, sentenze, CCNL, termini e pratiche dello studio. Connects Claude to DIKAIA for Italian legal research.",
+      "category": "legal"
+    },
+    {
+      "name": "dikaia-next",
+      "source": "./plugins/dikaia-next",
+      "description": "[NEXT] Collega Claude a DIKAIA: norme, sentenze, CCNL, termini e pratiche dello studio. Connects Claude to DIKAIA for Italian legal research.",
+      "category": "legal"
+    }
+  ]
+}

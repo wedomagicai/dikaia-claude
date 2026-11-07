@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dikaia-stage": {
+      "type": "http",
+      "url": "https://stage.dikaia.ai/mcp"
+    }
+  }
+}
