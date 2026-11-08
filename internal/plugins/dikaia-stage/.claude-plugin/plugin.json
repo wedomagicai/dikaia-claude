@@ -1,6 +1,7 @@
 {
   "name": "dikaia-stage",
   "displayName": "DIKAIA (stage)",
+  "icon": "./.claude-plugin/icon.png",
   "version": "0.1.0",
   "description": "[STAGE] Ricerca giuridica italiana con DIKAIA: norme, sentenze, CCNL, termini e pratiche dello studio, con fonti citate. Italian legal research with DIKAIA: statutes, case law, collective agreements, deadlines and the firm's matters, with cited sources.",
   "author": {
