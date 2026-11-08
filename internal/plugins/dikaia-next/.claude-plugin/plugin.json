@@ -8,6 +8,8 @@
     "url": "https://dikaia.ai"
   },
   "homepage": "https://dikaia.ai",
+  "privacyPolicyUrl": "https://www.dikaia.ai/privacy-policy",
+  "termsOfServiceUrl": "https://www.dikaia.ai/termini-di-servizio",
   "repository": "https://github.com/wedomagicai/dikaia-claude",
   "license": "MIT",
   "keywords": [
